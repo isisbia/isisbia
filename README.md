@@ -18,7 +18,7 @@ Geminiana, 33 anos, amante de doramas e jogos retro.<br>
 Graduada em **Jogos digitais** Pela FMU - SP.<br>
 Graduação em andamento em **Desenvolvimento de Software Multiplataforma** na Fatec Matão - Luiz Marchesan.<br><br>
 
-Me encontre no LinkedIn: [Meu Perfil](https://www.linkedin.com/in/isisbeatrizbonfim/)
+Conexão no LinkedIn:: [Meu Perfil](https://www.linkedin.com/in/isisbeatrizbonfim/)
 
 ## 📖 Minha citação favorita<br>
 "**So dark the con of man**" - O Código Da Vinci(2006)<br>
