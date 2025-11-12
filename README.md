@@ -18,6 +18,10 @@ Geminiana, 33 anos, amante de doramas e jogos retro.<br>
 Graduada em **Jogos digitais** Pela FMU - SP.<br>
 Graduação em andamento em **Desenvolvimento de Software Multiplataforma** na Fatec Matão - Luiz Marchesan.<br>
 
+## 📖 Minha citação favorita<br>
+"**So dark the con of man**" - O Código Da Vinci(2006)<br>
+Quão obscuro o golpe ou a manipulação do homem pode ser.<br><br>
+
 ## 🛠️ Minhas Ferramentas e Tecnologias
 
 <p align="left">
