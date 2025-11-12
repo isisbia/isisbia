@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Game Developer, com graduação em andamento em **Desenvolvimento de Software Multiplataforma** na Fatec Matão - Luiz Marchesan.
-
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
