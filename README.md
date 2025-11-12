@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Geminiana, 33 anos, amante de doramas e jogos retro.
+Graduada em **Jogos digitais** Pela FMU - SP.
+Graduação em andamento em **Desenvolvimento de Software Multiplataforma** na Fatec Matão - Luiz Marchesan.
 
-Game Developer, com graduação em andamento em **Desenvolvimento de Software Multiplataforma** na Fatec Matão - Luiz Marchesan.
-
-## Minhas Ferramentas
 ## 🛠️ Minhas Ferramentas e Tecnologias
 
 <p align="left">
