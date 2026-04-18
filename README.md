@@ -5,12 +5,12 @@
 </div>
 
 ### 👩‍💻 Sobre Mim
-Sou uma desenvolvedora em transição de carreira, unindo minha base sólida em **Design de Jogos** com o desenvolvimento de sistemas modernos. Atualmente, foco em criar soluções robustas e escaláveis, com especial interesse em arquitetura mobile e automação de processos.
+Desenvolvedora focada em soluções multiplataforma e arquitetura de sistemas. Unindo expertise em design de interação com tecnologia de ponta, busco criar experiências digitais eficientes, escaláveis e de alto impacto.
 
-- 🎓 **Graduada em Jogos Digitais** pela FMU-SP.
-- 🎓 **Cursando Desenvolvimento de Software Multiplataforma** na FATEC Matão.
-- 🚀 **Foco Atual:** Arquitetura Flutter/Dart, integração de IA Generativa e pipelines CI/CD.
-- 🎨 **Creative Side:** Desenvolvimento de ativos digitais e design focado em experiência do usuário (UX).
+- 🎓 **Graduada em Jogos Digitais** — FMU-SP.
+- 🎓 **Cursando Desenvolvimento de Software Multiplataforma** — FATEC Matão.
+- 🚀 **Especialidades:** Desenvolvimento Mobile (Flutter/Dart), Front-end moderno (React/TS) e automação de testes (E2E/Cypress).
+- ⚙️ **Interesses:** DevOps, CI/CD Pipelines e Integração de IA Generativa.
 
 ---
 
@@ -21,19 +21,19 @@ Sou uma desenvolvedora em transição de carreira, unindo minha base sólida em 
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 #### ⚙️ Back-end & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-#### 🚀 DevOps & Ferramentas
+#### 🚀 DevOps & Design
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
@@ -52,7 +52,7 @@ Sou uma desenvolvedora em transição de carreira, unindo minha base sólida em 
 ---
 
 ### 💬 Vamos nos conectar?
-Estou sempre aberta a colaborações em projetos open-source, discussões sobre tecnologia e, claro, recomendações de jogos retrô e doramas.
+Seja para discutir arquitetura de software, novos desafios técnicos ou compartilhar recomendações de jogos retrô e doramas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isisbeatrizbonfim/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
