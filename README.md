@@ -1,9 +1,5 @@
 # Olá, eu sou a Isis Beatriz! 👋
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" height="100" />
-</div>
-
 ### 👩‍💻 Sobre Mim
 Desenvolvedora focada em soluções multiplataforma e arquitetura de sistemas. Unindo expertise em design de interação com tecnologia de ponta, busco criar experiências digitais eficientes, escaláveis e de alto impacto.
 
